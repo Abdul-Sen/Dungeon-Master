@@ -22,5 +22,5 @@ This repo contains both the frontend and backend for the Dungeon Master program.
 ## High Level Architecture
 <br/>
 
-<img src="./public/HighLevelArchitecture.png" alt="Image" style="width:auto;height:500px;" />
+<img src="./public/HighLevelArchitecture.PNG" alt="Image" style="width:auto;height:500px;" />
 
