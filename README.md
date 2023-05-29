@@ -16,3 +16,11 @@ This repo contains both the frontend and backend for the Dungeon Master program.
 - Artwork Generation: The bot generates artowrk after each major DM prompt.
 
 - Versatile Platform: Whether you prefer using a standalone app or utilizing popular communication platforms, such as Discord, our app seamlessly integrates with both options. Access the full functionality of Character Sketch & World Builder through the app or as a Discord bot, catering to your preferred gaming setup.
+
+<br/>
+
+## High Level Architecture
+<br/>
+
+<img src="./public/HighLevelArchitecture.png" alt="Image" style="width:auto;height:500px;" />
+
